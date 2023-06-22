@@ -1,0 +1,6 @@
+Pandas is built on top numpy
+
+why use numpy over list
+  Lists are slow
+  Numpy is fast
+    Uses fixed types
