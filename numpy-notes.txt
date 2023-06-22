@@ -1,6 +1,21 @@
-Pandas is built on top numpy
+NumPy
+  Mathematics (MATLAB Replacement)
+  Plotting (Matplotlib)
+  Backend (Pandas, Connect 4, Digital Photography)
+    Pandas is built on top NumPy
+  Machine Learning (Directly and Indirectly)
 
-why use numpy over list
+
+Why use numpy over list
   Lists are slow
   Numpy is fast
     Uses fixed types
+    uses less bytes of memory
+    No type checking
+    uses contiguous memory
+      SIMD Vector Processing
+        SIMD - "sim-d" Single Instruction Multiple Data
+    Effective cache utilization
+
+Jupyter notebook
+  "jupyter notebook" in terminal
