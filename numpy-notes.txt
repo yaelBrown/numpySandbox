@@ -19,3 +19,6 @@ Why use numpy over list
 
 Jupyter notebook
   "jupyter notebook" in terminal
+
+
+10:35:36 - https://www.youtube.com/watch?v=LHBE6Q9XlzI
